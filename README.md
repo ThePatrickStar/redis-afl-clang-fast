@@ -1,3 +1,8 @@
+# Modifications
+
+## requires
+cpp_redis
+
 # american fuzzy lop
 
 [![Build Status](https://travis-ci.org/google/AFL.svg?branch=master)](https://travis-ci.org/google/AFL)
